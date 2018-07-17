@@ -1,0 +1,2 @@
+# Pylindrome
+Simple palindrome checker
